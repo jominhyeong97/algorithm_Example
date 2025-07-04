@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="433e0047-7204-4ea4-9c10-1aa7e27f9efe" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/A1sort/A02힙정렬문제풀이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A1sort/A03프로그래머스문제.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A2dfs/A01Dfs방문순서.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A2dfs/A02Dfs모든경우의수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A2dfs/A03백준DfsBfs백준연결요소의개수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A3bfs/A01Bfs방문순서.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A3bfs/A01Bfs최단거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A04greedy/A01GreedyBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A04greedy/A02그리디활용문제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A06투포인터/A01TwoPointerBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A06투포인터/A02수열의범위.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A06투포인터/A03두수의합또는차.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A07이분탐색/A01BinarySearchBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A07이분탐색/A02이분탐색활용문제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/A03트리관련.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/A0401완전탐색관련프로그래머스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/A04완전탐색관련백준문제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A2dfs/A05상하좌우연습.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3bfs/A03인접리스트활용최단거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3bfs/A04배열형식의최단거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A3bfs/A05비노드형식의최단거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A5DP/A01계단관련.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A5DP/A02동전관련.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A5DP/A03최대값최소값.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A5DP/A04문자열수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A5DP/A05배낭문제.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A1sort/A01heapsSort구현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A1sort/A01heapsSort구현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A2dfs/A03백준DfsBfs백준연결요소의개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A2dfs/A03백준DfsBfs백준연결요소의개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A3bfs/A01Bfs최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A3bfs/A02Bfs최단거리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2zCmgRLp1IHPjxRbEjEkKij7zox" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,29 +55,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Playdata/Desktop/16/algorithm_Example/src/Main.java",
-    "애플리케이션.A01Bfs방문순서.executor": "Run",
-    "애플리케이션.A01Bfs최단거리.executor": "Run",
-    "애플리케이션.A01Dfs방문순서.executor": "Run",
-    "애플리케이션.A01heapsSort구현.executor": "Run",
-    "애플리케이션.A02Dfs모든경우의수.executor": "Run",
-    "애플리케이션.A03프로그래머스문제.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Playdata/Desktop/16/algorithm_Example/src/Main.java&quot;,
+    &quot;애플리케이션.A01Bfs방문순서.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A01Bfs최단거리.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A01BinarySearchBasic.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A01Dfs방문순서.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A01GreedyBasic.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A01TwoPointerBasic.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A01heapsSort구현.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A01계단관련.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A02Dfs모든경우의수.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A02동전관련.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A02수열의범위.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A02이분탐색활용문제.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A03두수의합또는차.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A03백준DfsBfs백준연결요소의개수.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A03인접리스트활용최단거리.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A03트리관련.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A03프로그래머스문제.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A0401완전탐색관련프로그래머스.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A04문자열수열.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A04배열형식의최단거리.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A04완전탐색관련.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A04완전탐색관련백준문제.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A05배낭문제.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A05비노드형식의최단거리.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.A05상하좌우연습.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="A3bfs" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="A01Bfs방문순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A3bfs.A01Bfs방문순서" />
+  <component name="RunManager" selected="애플리케이션.A01BinarySearchBasic">
+    <configuration name="A01BinarySearchBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A07이분탐색.A01BinarySearchBasic" />
+      <module name="algorithm_Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A07이분탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A01TwoPointerBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A06투포인터.A01TwoPointerBasic" />
+      <module name="algorithm_Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A06투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A02수열의범위" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A06투포인터.A02수열의범위" />
+      <module name="algorithm_Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A06투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A03두수의합또는차" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A06투포인터.A03두수의합또는차" />
+      <module name="algorithm_Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A06투포인터.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A04배열형식의최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3bfs.A04배열형식의최단거리" />
       <module name="algorithm_Example" />
       <extension name="coverage">
         <pattern>
@@ -75,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A01Bfs최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A3bfs.A01Bfs최단거리" />
+    <configuration name="A04문자열수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A5DP.A04문자열수열" />
       <module name="algorithm_Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A3bfs.*" />
+          <option name="PATTERN" value="A5DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,52 +175,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A01Dfs방문순서" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2dfs.A01Dfs방문순서" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="algorithm_Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A2dfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A02Dfs모든경우의수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2dfs.A02Dfs모든경우의수" />
-      <module name="algorithm_Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A2dfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A03프로그래머스문제" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A1sort.A03프로그래머스문제" />
-      <module name="algorithm_Example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A1sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.A01Dfs방문순서" />
-        <item itemvalue="애플리케이션.A01Bfs방문순서" />
-        <item itemvalue="애플리케이션.A03프로그래머스문제" />
-        <item itemvalue="애플리케이션.A02Dfs모든경우의수" />
-        <item itemvalue="애플리케이션.A01Bfs최단거리" />
+        <item itemvalue="애플리케이션.A01BinarySearchBasic" />
+        <item itemvalue="애플리케이션.A03두수의합또는차" />
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.A02수열의범위" />
+        <item itemvalue="애플리케이션.A01TwoPointerBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -157,16 +212,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
